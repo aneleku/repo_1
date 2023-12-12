@@ -3,4 +3,7 @@
 git branch
 Перемещение по веткам
 ```sh
-git checkout <имя ветки>
+git checkout <имя_ветки>
+Создание новой ветки
+```sh
+git branch <имя_ветки>
