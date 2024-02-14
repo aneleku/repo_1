@@ -1,0 +1,9 @@
+Console.Clear();
+Void Print(int arr[], unsigned len);
+ if (len <=0)
+ {
+    putchar (" ");
+    return;
+ }
+ Printf ("\t%i+, *arr");
+ Print (arr+1, len-1);
